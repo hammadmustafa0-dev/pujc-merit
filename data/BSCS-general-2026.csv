@@ -1,0 +1,612 @@
+SR. NO.,FORM NO.,APPLICANT NAME,FATHER NAME,HFZ QRN,OBT MTR,TOL MTR,OBT INTR,TOL INTR,YER INTR,LTE YER,ADL MRK,QUL MRT,ENT MRT,FNL MRT,REMARKS
+1,190791,Aaliya Rizwan,Rizwan Ali,0,1130,1200,518,560,2025,,,69.81,20.0,89.81,Fee Verfication Required
+2,136836,Musa Rashid,Rashid Iqbal,0,1160,1200,512,555,2025,,,70.35,17.5,87.85,Fee Verfication Required
+3,207023,Saqib Hameed,Abdul Hameed,0,1129,1200,512,560,2025,,,69.27,18.5,87.77,Fee Verfication Required
+4,166789,Areeba Meerab,Abdul Rehman,0,1119,1200,494,560,2025,,,67.48,20.25,87.73,
+5,103860,Muhammad Shahzaib Javed,Muhammad Javed,0,1138,1200,521,560,2025,,,70.25,17.25,87.5,Fee Verfication Required
+6,231435,Qazi Muhammad Moiz Abdullah,Zulfiqar Ali,0,1140,1200,488,560,2025,,,67.41,20.0,87.41,
+7,228708,Bisma Ali,Muhammad Ali Zahid,0,1153,1200,507,560,2025,,,69.35,17.5,86.85,
+8,161793,Rayha Kamal,Munir Ahmed,20,1097,1200,492,560,2025,,,68.57,17.5,86.07,
+9,101646,Muhammad Saad,Muhammad Shahzad Hussain,20,1103,1200,463,510,2025,,,70.25,15.75,86.0,
+10,193427,Muhammad Ahmad,Imtiaz Ahmad,0,1041,1100,1002,1100,2025,2.0,,68.85,18.25,85.1,Fee Verfication Required
+11,128865,Ammara,Sanaullah,0,1103,1200,488,555,2025,,,67.0,17.75,84.75,Fee Verfication Required
+12,221960,Maryam Ijaz,Ijaz Ahmad,0,1075,1200,478,560,2025,,,65.12,19.25,84.37,
+13,179983,Abeera,Masood Ahmed,0,1058,1100,1061,1200,2025,,,67.4,16.75,84.15,
+14,219445,Anss Ahmad,Altaf Ahmad,0,1036,1100,1036,1100,2025,2.0,,70.64,15.5,84.14,Fee Verfication Required
+15,160224,Mehwish Sultana,Mushtaq Ahmed,0,1034,1100,1043,1200,2025,2.0,,66.18,19.5,83.68,Fee Verfication Required
+16,213278,Sharjeel Shahzad,Sarwar Shahzad,0,1103,1200,485,560,2025,,,66.34,17.25,83.59,
+17,103595,Sehar Atique,Atique Ur Rehman,0,977,1100,460,505,2025,,,67.72,15.75,83.47,
+18,124093,Noor Ul Eman,Nazar Hussain,0,1114,1200,462,555,2026,,,64.96,18.5,83.46,
+19,92215,Hafsa Noor,Ain-Ud-Din,0,1068,1200,488,560,2025,,,65.84,17.5,83.34,
+20,206204,Muhammad Anas Moavia,Muhammad Saddique,20,1120,1200,500,570,2025,,,68.97,14.25,83.22,
+21,120701,Muhammad Fahad Saleem,Saleem Shouket,0,1048,1200,460,560,2025,,,62.97,20.25,83.22,Fee Verfication Required
+22,211211,Javairia Manzoor,Manzoor Hussain,0,1072,1200,481,560,2025,,,65.32,17.75,83.07,
+23,194348,Safa Noor,Iftikhar Ahmed,0,1008,1100,468,505,2025,,,69.23,13.75,82.98,
+24,242064,Rahemeen Rouf,Rouf Yousaf,0,1088,1200,473,560,2025,,,64.97,18.0,82.97,
+25,146138,Dua Fatima,Sajid Mehmood,0,1090,1200,473,560,2025,,,65.01,17.75,82.76,
+26,168635,Ehtisham Ali,Muhammad,0,1055,1200,467,560,2025,,,63.73,19.0,82.73,Fee Verfication Required
+27,242030,Muhammad Asim,Abdul Majeed,20,1146,1200,462,555,2025,,,67.41,15.25,82.66,Fee Verfication Required
+28,179339,Raja Muhammad Dawood,Shahzad Hussain,20,1100,1200,466,560,2025,,,66.37,16.25,82.62,Fee Verfication Required
+29,158920,Minahil Babar,Muhammad Babar,0,1151,1200,448,555,2026,,,64.54,18.0,82.54,Fee Verfication Required
+30,96803,Noor Adil,Adil Mehmood,0,1102,1200,486,555,2026,,,66.8,15.25,82.05,
+31,157679,Rida Safdar,Safdar Ali,0,1113,1200,479,560,2025,,,66.04,16.0,82.04,Fee Verfication Required
+32,116823,Saman Fatima,Baqar Ali,0,1126,1200,464,560,2025,,,65.01,17.0,82.01,Fee Verfication Required
+33,236182,Aima Waqas,34101 2391880 9,0,1098,1200,485,555,2025,,,66.62,15.25,81.87,
+34,222607,Marva Usman,Usman Abdul Hamid,0,1080,1200,458,560,2025,,,63.49,18.25,81.74,
+35,158134,Meerab Afzal,Muhammad Afzal Shahzad,0,1074,1200,471,560,2026,,,64.49,17.25,81.74,Fee Verfication Required
+36,210700,Hajra Bibi,Muhammad Iqbal,0,974,1100,481,575,2025,,,63.93,17.75,81.68,
+37,115309,Abd Ur Rafy Ali,Muhammad Ishfaq Ahmad Watto,20,1086,1200,472,560,2025,,,66.58,15.0,81.58,Fee Verfication Required
+38,227392,Asna Arooj,Abdul Hameed,0,1117,1200,521,570,2024,,,68.99,12.5,81.49,Fee Verfication Required
+39,199448,Muhammad Faheem Anwar,Muhammad Anwar,0,1074,1200,479,560,2025,,,65.19,16.25,81.44,
+40,85687,Aliza Eyyman,Muhammad Ansar Baig,0,1011,1100,450,510,2025,,,67.14,14.25,81.39,
+41,148252,Muhamamd Abdullah,Muhammad Adress,0,1087,1200,498,560,2026,,,67.13,14.25,81.38,
+42,121196,Mehak Sandleen Khan,Imran Khan,0,1116,1200,453,560,2025,,,63.84,17.5,81.34,
+43,164364,Usama Ahmad,Noor Ahmad,0,970,1100,434,520,2025,,,63.82,17.5,81.32,
+44,110041,Laiba Qasim,Syed Qasim Ali,0,979,1100,432,510,2025,,,64.66,16.5,81.16,
+45,223204,Sania Eman,Sher Afzal,0,1071,1200,449,510,2025,,,66.37,14.5,80.87,
+46,108865,Syeda Emaan Amjad,Syed Amjad Ali,0,1082,1200,465,560,2025,,,64.14,16.5,80.64,
+47,120882,Rizwan Shahid,Muhammed Shahid,0,955,1100,1032,1200,2025,2.0,,64.61,18.0,80.61,Fee Verfication Required
+48,108630,Ijaz Aslam,Muhammad Aslam,0,1059,1200,497,560,2025,,,66.43,14.0,80.43,Fee Verfication Required
+49,228553,Muhammad Hamid Saleem Goraya,Muhammad Saleem,0,1122,1200,453,555,2025,,,64.34,16.0,80.34,Fee Verfication Required
+50,177775,Haroon Ahmed,Ijaz Sharif,0,1126,1200,479,570,2025,,,65.56,14.75,80.31,
+51,149713,Haania Arslan,Arslan Mehmood Khokhar,0,1013,1100,1020,1200,2025,2.0,,64.74,17.5,80.24,
+52,186286,Imad Ur Rahman,Muhammad Tahir,0,1045,1100,1094,1200,2024,4.0,,68.91,15.25,80.16,
+53,147358,Noor Fatima Attaria,Muhammad Zahid Saeed,0,1013,1200,481,570,2026,,,63.3,16.75,80.05,
+54,182517,Muhammad Umair,Ehsan Ali,0,1019,1200,478,570,2025,,,63.17,16.75,79.92,
+55,164487,Areeba Javed,Javed Akram,0,1058,1200,468,560,2025,,,63.88,16.0,79.88,
+56,226743,Zain Ul Abideen,Hafiz Abdul Majeed,0,1079,1200,448,560,2025,,,62.59,17.25,79.84,
+57,175341,Mehak Abid,Muhammad Abid,0,1088,1200,468,560,2025,,,64.53,15.25,79.78,Fee Verfication Required
+58,150223,Quratulain,Chaudhary Saghir Hussain,0,907,1100,469,560,2025,,,62.49,17.25,79.74,
+59,220783,Jan Wali,Inzar Gul,0,1125,1200,498,600,2025,,,64.94,14.75,79.69,
+60,92340,Muhammad Daud Khan Babar,Sajid Ullah Khan Babar,0,1080,1200,458,555,2025,,,63.86,15.75,79.61,Fee Verfication Required
+61,144412,Fariah Aamir,Aamir Saleem,0,1013,1100,436,510,2025,,,65.85,13.75,79.6,
+62,222956,Ezzah Almas,Naveed Iqbal Ahmed,0,1065,1200,440,560,2025,,,61.59,18.0,79.59,
+63,219303,Aabaan Naveed,Raja Muhammad Naveed Shahzad,0,983,1100,430,510,2025,,,64.56,15.0,79.56,
+64,89931,Abdul Hadi,Asif Iqbal,0,1062,1200,440,560,2025,,,61.53,18.0,79.53,Fee Verfication Required
+65,134735,Umer Arfan,Arfan Shammas,0,1014,1100,452,555,2026,,,63.75,15.75,79.5,
+66,143648,Aleeza Malik,Malik Zaheer Ahmed,0,1124,1200,481,560,2025,,,66.45,13.0,79.45,
+67,94765,Saad Nawaz,Muhammad Nawaz,0,1078,1100,979,1100,2024,4.0,,68.1,15.25,79.35,
+68,224173,Esha Sajid,Sajid Asghar,0,1039,1200,452,560,2025,,,62.07,17.25,79.32,
+69,138363,Fahad Bilal,Muhammad Bilal,0,997,1200,457,555,2025,,,61.95,17.25,79.2,
+70,162381,Aqsa Yasin,Chohdary Muhammad Yasin,0,1057,1200,451,560,2025,,,62.38,16.75,79.13,
+71,96558,Amina Tahir,Muhammad Tahir,0,1056,1200,459,560,2026,,,63.05,16.0,79.05,
+72,170005,Mawadat Fatima,Muzaffar Abbas,0,1071,1100,1011,1200,2025,2.0,,65.02,16.0,79.02,
+73,119960,Faya Atif,Atif Inayat,20,1021,1100,1017,1200,2025,2.0,,65.71,15.25,78.96,"Fee Verfication Required incomplete info , contacted but she is not intrested. f"
+74,229165,Muhammad Mateen Haider,Safdar Nazir,0,1038,1200,468,560,2025,,,63.44,15.5,78.94,
+75,187545,Turab Haider,Abid Hussain,0,1043,1200,471,555,2025,,,64.19,14.75,78.94,
+76,171665,Hamza Mustafa,Ghulam Mustafa,0,1054,1200,443,560,2025,,,61.61,17.25,78.86,Fee Verfication Required
+77,156748,Muhammad Abdullah,Sajid Mahmood,0,1061,1200,444,555,2025,,,62.21,16.5,78.71,Fee Verfication Required
+78,100749,Kanwal Shehzadi,Wajid Hussain,0,1053,1200,473,560,2025,,,64.21,14.5,78.71,
+79,193253,Fatima Tahir,Muhammad Tahir Maqbool,0,1088,1200,460,555,2025,,,64.21,14.5,78.71,Fee Verfication Required
+80,125294,Alisha Ashiq,Muhammad Ashiq,0,1010,1100,969,1200,2025,2.0,,62.11,18.5,78.61,Fee Verfication Required
+81,145613,Merub Shahbaz,Shahbaz,0,1114,1200,471,570,2025,,,64.61,13.75,78.36,Fee Verfication Required
+82,244705,M Umair Kashif,Kashif Sheraz,0,1062,1200,461,560,2025,,,63.36,15.0,78.36,
+83,124787,Muhammad Zain-ul-abiddin,Muhammad Farooq Khan Azad,0,1139,1200,463,560,2025,,,65.21,13.0,78.21,Fee Verfication Required
+84,178872,Sehar Eman,Shahid Ali,0,1045,1200,434,510,2025,,,64.38,13.75,78.13,
+85,183493,Muhammad Ibrahim,Iftikhar Ahmad,20,1037,1200,452,570,2025,,,63.04,15.0,78.04,Fee Verfication Required
+86,78576,Fatima Mumtaz,Mumtaz Hussain,0,1049,1200,445,510,2025,,,65.49,12.5,77.99,
+87,242335,Huda Ali,Ali Arshad,0,964,1100,426,520,2025,,,62.92,15.0,77.92,Fee Verfication Required
+88,226512,Saffa Usman,Usman Abdul Hamid,0,1039,1200,441,560,2025,,,61.11,16.75,77.86,
+89,133070,Muhammad Ilyas,Mazhar Ud Din,0,1063,1200,518,600,2025,,,65.31,12.5,77.81,
+90,220603,Mir Rayan Ali,Malik Imtaiaz Ahmed,0,1097,1200,437,560,2025,,,62.03,15.75,77.78,
+91,190991,Ahsan Jamal Hashir,Muhammad Ramzan,0,1072,1200,456,555,2026,,,63.51,14.25,77.76,Fee Verfication Required
+92,194025,Muhammad Mubeen,Ghulam Mustafa,0,1052,1200,467,560,2025,,,63.66,14.0,77.66,
+93,92047,Sayed Muhammad Riza,Sayed Intikhab Hussain,0,979,1200,495,600,2025,,,61.65,16.0,77.65,
+94,135974,Almas Ali,Ashfaq Ahmad,0,1013,1200,465,560,2025,,,62.64,15.0,77.64,Fee Verfication Required
+95,147656,Mah Noor,Muhammad Ikram,0,1062,1200,447,560,2025,,,62.14,15.5,77.64,
+96,192403,Maryam Sattar,Abdul Sattar,0,1044,1200,457,560,2025,,,62.62,15.0,77.62,
+97,128974,Asima,Zahid Khan,0,962,1100,979,1200,2025,2.0,,62.01,17.5,77.51,
+98,237621,Rehan Butt,Shoaib Butt,20,965,1100,443,560,2025,,,63.26,14.25,77.51,
+99,96356,Makhdoom Hussain Abbas,Zaigham Abbas,0,1019,1100,415,510,2025,,,63.99,13.5,77.49,Fee Verfication Required
+100,100801,Sohail Ahmad,Bashir Ahmad,0,997,1100,1033,1200,2025,2.0,,65.2,14.25,77.45,
+101,172981,Eman Fatima,Zulfiqar Ahmed,0,1000,1200,446,560,2025,,,60.7,16.75,77.45,
+102,220081,Hooriya Fatima,Imran Baig,0,1083,1200,428,560,2025,,,60.94,16.5,77.44,
+103,219065,Ali Hassan,Saif Ullah,0,1083,1200,458,555,2025,,,63.93,13.5,77.43,
+104,244371,Bissmillah Khan,Nasrullah,0,1020,1200,478,560,2025,,,63.92,13.5,77.42,
+105,165655,Muhammad Taimoor Ashraf,Waheed Ashraf,0,1041,1200,444,560,2025,,,61.42,16.0,77.42,
+106,109023,Hafiz Asmat Ullah,Amir Baz Khan,20,1056,1200,414,555,2025,,,61.23,16.0,77.23,Fee Verfication Required
+107,74911,Muhammad Asim,Muhammad Shahid,0,1000,1100,917,1100,2025,2.0,,63.65,15.5,77.15,
+108,135605,Mahrukh Irfan,Irfan Nabi Mirza,0,994,1100,451,560,2025,,,62.83,14.25,77.08,
+109,200568,Zaina Amin,Muhammad Amin,0,1002,1200,464,560,2025,,,62.31,14.75,77.06,
+110,144744,Faiqa Memoon,Memoon Rehmat,0,1090,1200,455,570,2026,,,62.72,14.25,76.97,
+111,139549,Zabih Ullah,Naveed Khan,0,979,1100,1032,1200,2026,2.0,,64.92,14.0,76.92,
+112,164337,Eman Saeed,Saeed Ahmed,0,942,1100,465,560,2025,,,62.92,14.0,76.92,
+113,85025,Habiba,Muhammad Farooq,0,1047,1200,445,560,2025,,,61.64,15.25,76.89,
+114,86213,Fatima Ajmal,Muhammad Ajmal Butt,0,1069,1200,422,560,2025,,,60.11,16.75,76.86,Fee Verfication Required
+115,220875,Abdul Wasay,Muhammad Ilyas,20,1005,1200,431,545,2025,,,62.33,14.5,76.83,Fee Verfication Required
+116,227429,Farzeen Javed,Muhammad Javed Iqbal,0,1018,1200,443,560,2026,,,60.83,15.75,76.58,
+117,182625,Abdul Rehman,Abid Shakeel,0,1077,1200,449,570,2025,,,61.92,14.5,76.42,
+118,189946,Muhammad Saim SHAHZAD,Shahzad Ahmed,0,1062,1200,453,560,2025,,,62.66,13.75,76.41,
+119,136767,Aamna Noor,Muhammad Ghazanfar,0,1001,1100,944,1100,2025,2.0,,65.14,13.25,76.39,
+120,245040,Muhammad Haseeb Hassan,Mukhtar Ahmad,0,906,1100,379,510,2025,,,57.85,18.5,76.35,
+121,124463,Qudsia Fatima,M.qasim Rafiq,0,1093,1200,434,555,2025,,,62.04,14.24,76.28,
+122,223928,Muneeb Asif,Asif Raza,0,1010,1200,450,560,2025,,,61.26,15.0,76.26,
+123,139581,Tahir Suleman,Suleman Tufail,20,1009,1200,427,560,2025,,,60.98,15.25,76.23,
+124,154871,Syed Ammar Haider,Syed Karrar Haider Bukhari,0,1002,1200,417,560,2025,,,58.21,18.0,76.21,Fee Verfication Required
+125,227514,Muhammad Yousaf,Shafiq,0,1073,1200,448,560,2025,,,62.46,13.75,76.21,
+126,73365,Meesam Raza Khan,Munawar Ali Khan,0,975,1200,443,560,2025,,,59.89,16.25,76.14,Fee Verfication Required
+127,81995,Muhammad Muaz,Muhammad Zahid Sarfraz,0,976,1200,448,560,2026,,,60.35,15.75,76.1,
+128,129891,Misbah Kousar,Fakhar Rabbani,0,1032,1200,471,560,2025,,,63.58,12.5,76.08,
+129,193339,Mohid Bila,Shahid Mahmood,0,953,1200,464,570,2025,,,60.54,15.5,76.04,
+130,149686,Kiswa Zainab Abideen,Amjad Ali,0,1015,1200,434,560,2025,,,59.98,16.0,75.98,
+131,143985,Muhammad Bilal,Nasir Mehmood,0,992,1100,1014,1200,2025,2.0,,64.17,13.75,75.92,
+132,244374,Abdul Hannan Khan,Muhammad Tanveer Khan,0,978,1200,432,560,2025,,,59.0,16.75,75.75,
+133,232565,Azka Siddiqa,Ashfaq Ahmed,0,1037,1200,428,570,2025,,,59.25,16.5,75.75,
+134,229049,Nimra Kashif,Kashif Naeem,0,930,1200,457,505,2025,,,64.24,11.5,75.74,
+135,158034,Hijjab Fatima,Yasir Ahmad Hashmi,0,1037,1200,447,555,2025,,,61.95,13.75,75.7,
+136,226159,Hammad Akmal,Muhammad Akmal,0,949,1100,1035,1200,2025,2.0,,64.69,13.0,75.69,
+137,155793,Syed Ehman Haider,Syed Ulfat Hussain Shah,0,871,1100,390,505,2025,,,58.44,17.25,75.69,
+138,154048,Sayed Ali,Sayed Laiq Hussain,0,1014,1200,486,600,2025,,,61.63,14.0,75.63,
+139,168253,Abdullah Shuja,Irfan Ahmad,0,1063,1200,412,560,2025,,,59.11,16.5,75.61,Fee Verfication Required
+140,170727,Muhammad Yasir,Bashir Ullah,0,1062,1200,458,600,2025,,,60.29,15.25,75.54,
+141,171645,Isma Asim,Asim Shehzad,0,1021,1200,470,575,2025,,,62.16,13.25,75.41,
+142,159828,Rameen Nasir,Muhammad Nasir Mehmood,0,1096,1200,454,555,2025,,,63.86,11.5,75.36,Fee Verfication Required
+143,117905,Muhammad Anwar,Noor Muhammad,0,846,1100,1005,1200,2025,,,61.86,13.5,75.36,
+144,161787,Muhammad Rayyan,Ateeq Ahmed,0,1004,1200,441,560,2025,,,60.35,15.0,75.35,
+145,94032,Amina Mehboob,Mehboob Hussain,0,1075,1200,429,560,2026,,,60.85,14.5,75.35,
+146,220748,Muhammad Ahmad Muslim,Hafiz Iltaf Hussain,0,1028,1200,440,570,2025,,,60.09,15.25,75.34,
+147,175531,Muhammad,Muddser Iqbal,20,1004,1200,412,560,2025,,,59.56,15.75,75.31,
+148,72043,Muhammad Abdullah Nadeem,Muhammad Nadeem,0,1005,1200,448,560,2025,,,60.98,14.25,75.23,
+149,187225,Abdullah Asif,Asif Nadeem,0,1018,1200,433,560,2025,,,59.96,15.25,75.21,
+150,216307,Roghena Alamgir Khan,Muhammad Alamgir Khan,0,1063,1200,437,560,2025,,,61.29,13.75,75.04,Fee Verfication Required
+151,186236,Muhammad Fawad,Muhammad Asif Kamran,0,1124,1200,424,570,2025,,,60.78,14.25,75.03,
+152,144552,Rashid Ahmad,Amir Nawab,0,963,1100,1018,1200,2025,2.0,,64.0,13.0,75.0,
+153,238204,Mustafa Afzal,Rana Muhammad Afzal,0,1014,1200,394,560,2025,,,56.47,18.5,74.97,
+154,227434,M Saad Safdar,M Safdar Ch,0,1001,1200,460,560,2025,,,61.94,13.0,74.94,
+155,182592,Junaid Hassan,Ahmad Sher Khan,0,979,1200,430,555,2025,,,59.19,15.75,74.94,
+156,203289,Muhammad Suleman,Ghulam Akbar,0,1092,1200,445,560,2025,,,62.62,12.25,74.87,
+157,112459,Mishail Nadeem,Muhammad Nadeem Akhter,0,992,1200,444,560,2025,,,60.35,14.5,74.85,
+158,163876,Naveera Rehman,Aqeel-ur-rehman,0,1042,1200,437,560,2025,,,60.83,14.0,74.83,
+159,118771,Muhammad Hussain,Bader Khurshid,0,1026,1200,408,560,2025,,,57.95,16.75,74.7,
+160,102023,Alishba Murtaza,Ghulam Murtaza,0,770,1100,465,560,2025,,,59.06,15.5,74.56,Fee Verfication Required
+161,215263,Muhammad Musa,Khalid Mehmood,0,1047,1200,424,560,2025,,,59.8,14.75,74.55,
+162,178743,Amrozish Yaseen,Muhammad Yaseen,0,1061,1200,429,560,2025,,,60.55,14.0,74.55,
+163,193336,Asif Ali,Abdul Majeed,0,1057,1200,449,570,2026,,,61.49,13.0,74.49,Fee Verfication Required
+164,187727,Muhbat Khan,M.afzal,0,876,1100,949,1100,2025,2.0,,63.71,12.75,74.46,
+165,139334,Anjum Ishaque,Muhammad Ishaque,0,920,1100,431,510,2025,,,63.15,11.25,74.4,
+166,223286,Muhammad Salman,Manzoor Hussain,0,766,1100,463,555,2025,,,59.14,15.25,74.39,Fee Verfication Required
+167,191591,Minahil Shehzadi,Abid Ali,0,1055,1200,439,555,2025,,,61.64,12.75,74.39,Fee Verfication Required
+168,199099,Sheheryar Ahmad,Noor Muhammad,0,896,1100,1000,1200,2025,2.0,,62.24,14.0,74.24,
+169,173429,Ammara Sharafat,Malik Sharafat,0,1000,1100,972,1200,2025,2.0,,62.14,14.0,74.14,
+170,196668,Muhammad Hamza Ali,Qaiser Abbas,0,909,1100,410,510,2025,,,60.88,13.25,74.13,
+171,129709,Shahid Wazir,Muhammad Anwar Khan,0,1069,1200,508,600,2025,,,64.6,9.5,74.1,Fee Verfication Required
+172,142087,Asad Iqbal,Muhammad Iqbal,0,737,1100,471,560,2025,,,58.85,15.25,74.1,
+173,142074,Azmat Ullah,Faiz Ullah,0,903,1100,1010,1200,2025,2.0,,62.83,13.25,74.08,
+174,157772,Muhammad Ali Mazis,Muhammad Saleem,0,885,1100,985,1200,2025,2.0,,61.33,14.75,74.08,
+175,146092,Saad Bin Younas,Muhammad Younas Tahir,0,954,1100,1007,1200,2025,2.0,,63.33,12.75,74.08,
+176,141771,Nadia Afzal,Muhammad Afzal,0,980,1200,464,560,2025,,,61.83,12.25,74.08,
+177,102458,Haroon Khan,Sher Gul Khan,0,960,1100,1014,1200,2025,2.0,,63.76,12.25,74.01,
+178,148557,Amina Nasir,Tanveer Nasir,0,926,1100,944,1200,2025,2.0,,59.77,16.0,73.77,
+179,162917,Muhammad Aleem Tahir,Muhammad Naeem Tahir,0,1026,1200,426,560,2025,,,59.52,14.25,73.77,
+180,160044,Muhammad Abdullah,Mian Ishtiaq Ahmed,20,1005,1200,408,525,2025,,,61.75,12.0,73.75,
+181,130879,Laiba Jabeen,Abid Hussain,0,983,1100,988,1200,2025,2.0,,62.73,13.0,73.73,
+182,148787,Aaida Shujah,Shujah Ud Din,0,949,1100,428,550,2025,,,60.48,13.25,73.73,
+183,244950,Muhammad Ali,Naveed Anwar,0,996,1200,464,570,2025,,,61.47,12.25,73.72,
+184,237017,Alishba Tariq,Tariq Mehmood,0,936,1100,888,1100,2025,2.0,,61.2,14.5,73.7,
+185,149730,Haris Shahzad,Shahzad Ahmed,0,1077,1200,417,560,2025,,,59.85,13.75,73.6,
+186,110333,Sumeet Kumar,Lalchand,0,952,1100,1010,1100,2024,4.0,,68.07,9.5,73.57,Fee Verfication Required
+187,170213,Subhan Ahmad,Zulfiqar Ahmad,0,885,1200,464,560,2025,,,59.76,13.75,73.51,
+188,163882,Abdul Nafey,Ch Haseeb Ahmed Siddique,0,903,1100,407,520,2025,,,59.69,13.75,73.44,
+189,218234,Muhammad Rashid,Muhammad Ashraf,0,905,1200,432,560,2025,,,57.41,16.0,73.41,
+190,185926,Meerab Luqman,Luqman Ahmed,0,1071,1200,399,560,2025,,,58.15,15.25,73.4,
+191,236805,Maham Zahra,Naseer Ahmed,0,1045,1200,450,555,2025,,,62.39,11.0,73.39,
+192,177509,Muhammad Junaid Iqbal,Muhammad Zamir Ul Hassan,0,928,1200,451,560,2025,,,59.56,13.75,73.31,Fee Verfication Required
+193,206215,Muhammad Shoaib,Mukhtiar Ahmad,0,883,1100,431,560,2025,,,58.54,14.75,73.29,
+194,163939,Syed Muhammad Abdul Manan,Muhammad Ahmad Shah,0,1034,1200,404,560,2025,,,57.78,15.5,73.28,
+195,131157,Muhammad Usman Subhani,Muhammad Shafiq Abid,0,1069,1200,434,570,2025,,,60.45,12.75,73.2,Fee Verfication Required
+196,161470,Muhammad Umar Naveed,Muhammad Naveed,0,916,1100,393,510,2025,,,59.43,13.75,73.18,Fee Verfication Required
+197,130082,Arshia Butt,Attaullah Butt,0,988,1200,465,570,2025,,,61.38,11.75,73.13,
+198,130698,Muhammad Anas,Zahoor Hussain Naz,0,1060,1200,413,560,2025,,,59.13,14.0,73.13,
+199,205108,Ali Ahmad,Muhammad Yousaf,0,950,1200,420,560,2025,,,57.34,15.75,73.09,
+200,155777,Muhammad Ahmad,Faisal Imran,0,988,1200,413,560,2025,,,57.56,15.5,73.06,
+201,190637,Natasha Amir,Amir Razzaq,0,924,1200,429,560,2025,,,57.56,15.5,73.06,
+202,159213,Muhammad Uzair Dar,Nadir Rasheed Dar,20,983,1200,374,560,2025,,,55.79,17.25,73.04,
+203,93678,Sara Najam,Najam Mehmood,0,973,1200,428,560,2025,,,58.54,14.5,73.04,
+204,150307,Abdullah Imran,Imran Noor,0,947,1200,411,560,2025,,,56.49,16.5,72.99,Fee Verfication Required
+205,81955,Muhammad Waheed,Muhammad Rustam,0,1010,1200,426,560,2025,,,59.17,13.75,72.92,
+206,184286,Gohar Iqbal,Muhammad Iqbal Mughal,0,1011,1200,460,560,2025,,,62.16,10.75,72.91,Fee Verfication Required
+207,138230,Naima Nosheen,Tariq Mahmood,0,1001,1200,439,560,2025,,,60.11,12.75,72.86,
+208,143190,Fatima Afzal,Muhammad Afzal,0,1014,1200,407,560,2025,,,57.6,15.25,72.85,
+209,142582,Usman Shahid,Shahid Yaqoob,0,1001,1100,399,560,2025,,,58.32,14.5,72.82,
+210,177284,Amna Khan,Khadim Hussain,0,1009,1200,425,560,2025,,,59.06,13.75,72.81,
+211,124340,Zeeshan Ahmad,Muhammad Ahmad,0,1014,1200,409,560,2025,,,57.78,15.0,72.78,
+212,136220,Emaan Sajid,Sajid Mehmood,0,882,1100,410,510,2025,,,60.24,12.5,72.74,
+213,199934,Mahnoor Munir,Munir Hussain,0,1018,1200,410,560,2025,,,57.95,14.75,72.7,Fee Verfication Required
+214,129740,Kailash Kumar,Chanana,0,980,1200,465,560,2025,,,61.92,10.75,72.67,Fee Verfication Required
+215,242767,Sohaib Ahmad,Noor Ul Hadi,0,1048,1200,510,600,2025,,,64.33,8.25,72.58,Fee Verfication Required
+216,243389,Muhammad Soban Saleem,Muhammad Saleem Sheikh,0,974,1200,434,560,2025,,,59.08,13.5,72.58,Fee Verfication Required
+217,136615,Muhammad Ali Siddiqui,Israr Hussain Siddiqui,0,1073,1200,420,570,2025,,,59.33,13.25,72.58,
+218,157051,Komal,Muhammad Asif,0,1093,1100,386,555,2025,,,59.57,13.0,72.57,
+219,139591,Amina Sohail,Sohail Kokab,0,992,1100,957,1200,2025,2.0,,61.27,13.25,72.52,
+220,192775,Faheem Ullah,Muhammad Amir,0,712,1100,1074,1200,2024,4.0,,63.66,12.75,72.41,
+221,193356,Zainab Ikhlaq,Ikhlaq Ahmed,0,1016,1200,409,555,2025,,,58.16,14.25,72.41,Fee Verfication Required
+222,137886,Abdul Razzaq,Saday Gul Khan,0,884,1100,957,1200,2025,2.0,,59.9,14.5,72.4,
+223,240899,Aleena Nadeem,Nadeem Ahmed,0,954,1200,408,550,2025,,,57.04,15.25,72.29,
+224,206257,Mohammad Khalid,Qibla Khan,0,967,1100,988,1200,2025,2.0,,62.53,11.75,72.28,
+225,217567,Saad Ahmad,Fiaz Ahmad,0,903,1200,405,560,2026,,,55.01,17.25,72.26,
+226,187894,Salka Noor,Raja Yasir Mehmood,0,971,1200,417,550,2025,,,58.21,14.0,72.21,
+227,165283,Ahmed Sohail,Sohail Gulzar,0,838,1100,376,510,2025,,,55.94,16.25,72.19,
+228,208269,Hafiz Muhammad Hamza,Mirza Muhammad Ashfaq,20,1004,1200,422,560,2026,,,60.44,11.75,72.19,
+229,152939,Fizza Shahid,Shahid Mehmood,0,972,1200,401,510,2025,,,59.63,12.5,72.13,Fee Verfication Required
+230,94078,Meerub Mehboob Mirza,Mehboob Rasheed,0,952,1100,959,1200,2025,2.0,,60.86,13.25,72.11,
+231,101782,M.huzaifa,Imtiaz Ahmed,0,1024,1200,389,510,2025,,,59.72,12.25,71.97,
+232,190762,Maira Naeem,Muhammad Naeem,0,1025,1200,402,545,2025,,,58.42,13.5,71.92,
+233,228084,Mahir Khan,Muhammad Sharif,0,903,1100,1031,1200,2025,2.0,,63.9,10.0,71.9,
+234,137899,Saniya Azhar,Azhar Mehmood,0,1002,1200,422,560,2025,,,58.65,13.25,71.9,
+235,220414,Hafsa Shakir,Muhammad Shakir Yaseen,0,914,1200,438,560,2025,,,58.13,13.75,71.88,
+236,170812,Muhammad Abu Hurraira,Muhammad Aslam,0,897,1200,438,570,2026,,,57.09,14.75,71.84,Fee Verfication Required
+237,242481,Arooj Fatima,Ahsan Ullah,0,922,1100,421,560,2025,,,58.52,13.25,71.77,
+238,209764,Muhammad Ahmed,Muhammad Idrees,20,933,1200,365,510,2025,,,57.25,14.5,71.75,
+239,137522,Pakeeza Altaf,Altaf Ahmed Kayani,0,919,1200,416,525,2026,,,58.7,13.0,71.7,
+240,184868,Zahika Shahid,Shahid Riaz,0,969,1200,379,560,2025,,,54.18,17.5,71.68,Fee Verfication Required
+241,177276,Hajra Khizar,Khizar Hussain,0,910,1200,421,570,2025,,,55.91,15.75,71.66,
+242,175637,Imsal Fatima,Muhammad Touqeer Aslam,0,859,1200,452,560,2025,,,58.15,13.5,71.65,
+243,197578,Muhammad Fiazan,Nusrat Mehmood,20,863,1100,370,510,2025,,,57.87,13.75,71.62,
+244,174124,Fakhra Batool,Miqdad Hussain,0,1024,1200,419,560,2025,,,58.87,12.75,71.62,
+245,186837,Ahsanjutt AHSAN ARIF,Ch Arif Aziz,0,814,1100,913,1200,2025,2.0,,56.77,16.75,71.52,
+246,120807,Muskan Fatima,Syed Asim Shabbir,0,913,1100,402,510,2025,,,60.21,11.25,71.46,
+247,241270,Abd Ur Rehman,Muhammad Ramzan,0,993,1200,419,560,2025,,,58.19,13.25,71.44,
+248,214198,Muhammad Ghani,Muhammad Javaid Akbar,0,1026,1200,396,560,2025,,,56.9,14.5,71.4,
+249,124734,Ubaid Ullah,Khaista Rahman,0,926,1100,1005,1200,2025,,,62.87,8.5,71.37,Fee Verfication Required
+250,79023,Muhammad Huzaifa Kiani,Gul Imran Kiani,0,917,1100,804,1100,2025,2.0,,56.36,17.0,71.36,
+251,159525,Muhammad Anas Kayani,Haq Nawaz,0,862,1100,868,1100,2025,2.0,,59.1,14.25,71.35,
+252,189519,Muhammad Asif,Zafar,0,1064,1200,426,560,2025,,,60.35,11.0,71.35,Fee Verfication Required
+253,212437,Zainab Aziz,Muhammad Amer,0,834,1100,426,560,2025,,,56.99,14.25,71.24,
+254,165104,Fiza Wasib,Wasib Hussain,0,977,1200,409,560,2025,,,56.97,14.25,71.22,
+255,119465,Sawera,Sattar,0,1000,1200,411,510,2026,,,61.2,10.0,71.2,
+256,88836,Muhammad Bilal,Muhammad Ashfaq,20,1081,1200,377,560,2025,,,58.19,13.0,71.19,
+257,140946,Ashir Ilyas,Muhammad Ilyas,0,927,1100,390,510,2025,,,59.4,11.75,71.15,
+258,207766,Ayesha Umer,Umer Hayat,0,903,1100,397,505,2025,,,59.88,11.25,71.13,
+259,168836,Shahid Ali,Liaqat Ali,0,1017,1100,389,555,2025,,,58.13,13.0,71.13,
+260,150719,Muhammad Hussnain Amjad,Amjad Ali,0,1049,1200,366,560,2025,,,54.79,16.25,71.04,
+261,139493,Muhammad Faizan,Muhammad Iqbal,0,1078,1200,442,575,2025,,,60.99,10.0,70.99,
+262,89391,Javeria Safdar,Safdar Rehman,0,975,1200,424,560,2025,,,58.23,12.75,70.98,Fee Verfication Required
+263,220492,Asma Zaheer,Zaheer-ud-din Babar,0,965,1100,884,1200,2025,2.0,,57.22,15.75,70.97,
+264,199468,Syed Ali Haider Shah,Syed Ahsan Ali Naqvi,0,858,1200,451,600,2025,,,55.46,15.5,70.96,
+265,185628,Amna Jahangir,Mian Jahangir Iqbal,0,912,1100,381,510,2025,,,58.18,12.75,70.93,
+266,119416,Akasha Ayub,Sheikh Muhammad Ayub Sethi,0,976,1200,411,560,2026,,,57.12,13.75,70.87,
+267,241857,Amina Nameen,Nasir Mahmood,0,910,1100,370,510,2025,,,57.09,13.75,70.84,
+268,216295,Muhammad Qamar,Abdul Hafeez,0,1003,1200,398,560,2025,,,56.58,14.25,70.83,Fee Verfication Required
+269,147892,Tehreem Fatima,Tafazal Mehmood,0,926,1200,428,560,2025,,,57.51,13.25,70.76,Fee Verfication Required
+270,191603,Hanan Bin Amjad,Amjad Ali,0,905,1100,411,560,2025,,,57.24,13.5,70.74,
+271,127971,Qurat-ul-ain Ahmad,Malik Ahmad Khan,0,1015,1200,391,560,2025,,,56.23,14.5,70.73,Fee Verfication Required
+272,152135,Muhammad Owais,Muhammad Ramzan,0,1042,1100,894,1200,2025,2.0,,58.7,14.0,70.7,
+273,209699,Yaseen Abbas,Sarfaraz Hussain,0,880,1200,502,600,2025,,,60.17,10.5,70.67,
+274,192385,Syed Abdul Waheed,Syed Nazir Ahmed,0,917,1100,403,510,2025,,,60.41,10.25,70.66,
+275,190114,Muhammad Adil,Muhammad Tariq,0,979,1200,393,560,2025,,,55.62,15.0,70.62,Fee Verfication Required
+276,199105,Saif Ur Rehman,Farooq Sarwar,0,804,1100,368,510,2025,,,54.36,16.25,70.61,
+277,139758,Muhammad Mohib,Pazir Muhammad,0,921,1200,509,600,2025,,,61.6,9.0,70.6,Fee Verfication Required
+278,107503,Tayyab Safeer Ahmed,Safeer Ahmed Warraich,0,945,1200,430,560,2025,,,58.1,12.5,70.6,
+279,162390,Syeda Manal Sajjad,Syed Sajjad Hussain Shah,0,974,1200,435,560,2025,,,59.17,11.25,70.42,
+280,193951,Murtaza Ali,Musa Khan,0,933,1200,476,600,2025,,,59.1,11.25,70.35,
+281,77218,Bakhtawar Rasheed,Rasheed Irfan,0,944,1100,379,520,2025,,,58.02,12.25,70.27,Fee Verfication Required
+282,208451,Muhammad Rehan Usman,Muhammad Usman,0,928,1200,415,560,2025,,,56.42,13.75,70.17,Fee Verfication Required
+283,84549,Muhammad Haseeb Ahmad,Shakeel Ahmad,0,950,1200,395,560,2025,,,55.16,15.0,70.16,
+284,162005,Maryam Zahra,Waseem Raza,0,939,1200,414,555,2025,,,56.91,13.25,70.16,
+285,155852,Muhammad Rayyan,Muhammad Faheem,0,917,1200,411,560,2025,,,55.84,14.25,70.09,
+286,190016,Shiza Malik,Malik Muhammad Naveed Asim,0,917,1200,408,560,2025,,,55.57,14.5,70.07,
+287,75146,Zainab Fatima,Raja Muhammad Ashraf Janjua,0,1000,1100,887,1200,2024,4.0,,57.81,16.25,70.06,
+288,155616,Nad E Ali,Muzaffar Abbas,0,1009,1100,904,1200,2025,2.0,,58.79,13.25,70.04,
+289,206033,Muhammad Tahseen,Saleem Anwar Cockeb,20,1028,1200,374,560,2025,,,56.77,13.25,70.02,
+290,244014,Abdulrehman,Ghulam Ghous,0,905,1100,944,1200,2025,2.0,,59.5,12.5,70.0,
+291,87819,Areeba Sajjad,Sajjad Hussain,0,962,1200,433,560,2025,,,58.74,11.25,69.99,
+292,169834,Sara Babar,Babar Nawaz,0,1079,1200,398,560,2025,,,58.23,11.75,69.98,Fee Verfication Required
+293,140243,Abdullah Ehsan,Ehsan Ellahi,0,882,1100,958,1200,2025,2.0,,59.92,12.0,69.92,
+294,182547,Hajra Zaheer,Zaheer Ahmed,0,978,1200,431,560,2025,,,58.91,11.0,69.91,
+295,155214,Dilshad Tasawar,Tasawar Hussain,0,832,1100,874,1100,2024,4.0,,59.02,14.75,69.77,
+296,112413,Aniqa Mohsin,Mohsin Ali Ijaz,0,872,1100,952,1200,2025,2.0,,59.49,12.25,69.74,Fee Verfication Required
+297,215059,Zahir Ullah,Malik,0,946,1100,933,1200,2025,2.0,,59.47,12.25,69.72,
+298,171581,Amna Noor,Muhammad Anwar,0,930,1100,837,1100,2025,2.0,,58.34,13.25,69.59,
+299,117586,Rabia Kousar,Sultan Mehmood,0,886,1200,427,560,2025,,,56.56,13.0,69.56,
+300,186512,Hussanah Mohsin,Ata Ul Mohsin Tahir,0,858,1100,398,520,2025,,,57.78,11.75,69.53,
+301,187513,Touqeer Fatima,Fida Hussain,0,925,1200,407,570,2025,,,55.02,14.5,69.52,
+302,142958,Huma Akseer,Akseer Ahmed,0,990,1200,375,505,2025,,,58.0,11.5,69.5,
+303,133705,Abdul Qadoos,Shafi Muhammad,0,856,1100,954,1100,2024,4.0,,63.71,9.75,69.46,Fee Verfication Required
+304,148951,Hassan Javaid,Tariq Javaid,0,1010,1200,392,560,2025,,,56.21,13.25,69.46,
+305,240213,Muhammad Waqas,Amir Khan,0,906,1100,961,1200,2025,2.0,,60.38,11.0,69.38,
+306,140165,Muhammad Anas,Zulfiqar Ali,0,1038,1200,407,560,2025,,,58.13,11.25,69.38,
+307,192898,Ghazara Zarrar Sheikh,Muhammad Zarrar Sheikh,0,1012,1200,396,560,2025,,,56.6,12.75,69.35,
+308,133270,Muhammad Ghulam Ali,Shahbaz Ali,0,932,1200,384,560,2025,,,53.81,15.5,69.31,
+309,244397,Muneeza Tariq,Munhammad Tariq Aziz Shehzad,0,896,1100,404,560,2025,,,56.41,12.75,69.16,
+310,137708,Maaz Ahmad,Mubashar Ahmad,0,957,1200,413,560,2025,,,56.88,12.25,69.13,
+311,146825,Kubra Nazir,Nazir Ahmed,0,866,1100,373,520,2025,,,55.61,13.5,69.11,
+312,232205,Haris Khan,Alam Said,0,909,1100,999,1200,2024,4.0,,62.35,10.75,69.1,
+313,194677,Tahir Mehmood,Mazhar Abbas,0,976,1200,403,570,2025,,,55.78,13.25,69.03,Fee Verfication Required
+314,94322,Fiza Zahid,Zahid Hafeez,0,953,1200,387,560,2025,,,54.53,14.5,69.03,Fee Verfication Required
+315,75754,Muhammad Ahsan,Muhammad Amir,0,834,1100,380,520,2025,,,55.52,13.5,69.02,
+316,130605,Rumaisa Ali,Nawazish Ali,0,989,1200,402,555,2025,,,56.95,12.0,68.95,Fee Verfication Required
+317,170910,Warda Ashfaq,Muhammad Ashfaq Ahmad,0,875,1200,418,555,2026,,,55.86,13.0,68.86,Fee Verfication Required
+318,84107,Shuja Ur Rehman,Muhammad Imran,20,1044,1100,796,1200,2025,2.0,,54.76,16.0,68.76,Fee Verfication Required
+319,139626,Ameera,Tanveer Ahmed,0,880,1200,400,520,2025,,,56.71,12.0,68.71,
+320,243460,Muhammad Arham Asim,Muhammad Asim,0,906,1200,399,560,2025,,,54.55,14.0,68.55,Fee Verfication Required
+321,243462,Haider Ali,Muhammad Shahid Yaqoob,0,924,1100,881,1200,2025,2.0,,56.54,14.0,68.54,
+322,205908,Sania Latif,Abdul Latif,0,815,1100,447,575,2025,,,57.42,11.0,68.42,Fee Verfication Required
+323,72921,Hamza Imran,Imran Hussain,0,890,1200,390,560,2025,,,53.42,15.0,68.42,
+324,194434,Muhammad Abdullah,Shakeel Ahmad,0,1022,1200,314,560,2025,,,49.67,18.75,68.42,Fee Verfication Required
+325,145911,Noor Manaf,Abdul Manaf,0,852,1100,368,505,2025,,,55.87,12.5,68.37,
+326,216960,Muhammad Salman,Mohammad Arif,0,987,1200,401,570,2025,,,55.84,12.5,68.34,
+327,203818,Ayesha Arshad,Muhammad Arshad,0,1063,1200,413,555,2025,,,59.54,8.75,68.29,
+328,133518,Falak Shair,Naveed Sabir,0,873,1100,379,560,2025,,,53.65,14.5,68.15,
+329,94152,Tehreem Fatima,Kashif Adeel,0,883,1100,814,1200,2025,2.0,,52.61,17.5,68.11,
+330,162781,Dua Bint E Zafar,Zafar Iqbal,0,935,1200,372,560,2025,,,52.83,15.25,68.08,
+331,75267,Madiha Rafiq,Rafiq Ahmad,0,967,1100,844,1100,2024,4.0,,59.22,12.75,67.97,
+332,153931,Muhammad Yahya,Danish,0,902,1100,378,510,2025,,,57.66,10.25,67.91,
+333,118823,Taskeen Ashraf,Muhammad Ashraf Tahir,0,1009,1200,401,550,2026,,,57.64,10.25,67.89,
+334,97857,Tabeena Fatima,Nasir Shehzad,0,930,1200,352,510,2026,,,54.12,13.75,67.87,
+335,210903,Sabbeh Raza,Baqir Khan,0,948,1200,395,560,2025,,,55.12,12.75,67.87,
+336,178415,Malik Usman Zahid,Zahid Hussain Malik,0,864,1200,396,560,2025,,,53.37,14.25,67.62,
+337,122373,Usman Zafar,Zafar Iqbal,0,952,1200,394,560,2025,,,55.12,12.5,67.62,Fee Verfication Required
+338,121190,Hafsa Tabbsum Ali,Muhammad Ali,0,874,1200,396,525,2025,,,55.86,11.75,67.61,
+339,163899,Maira Ashfaq,M.ashfaq,0,850,1100,379,510,2025,,,56.51,11.0,67.51,
+340,128437,Syed Murtaza Ali Bukhari,Syed Wakalat Ali,0,854,1200,394,560,2025,,,52.98,14.5,67.48,
+341,162155,Zarbakht Jalal,Shariq Saleem,0,860,1100,358,525,2025,,,53.72,13.75,67.47,
+342,221401,Muhammad Hammad Arshad,Muhammad Arshad Shafi,20,894,1200,373,550,2025,,,54.4,13.0,67.4,Fee Verfication Required
+343,242472,Abdul Rehman,Abdul Hafeez,0,989,1200,362,560,2025,,,53.13,14.25,67.38,
+344,184839,Eman Fatima,Tariq Mehmood,0,968,1100,842,1200,2025,2.0,,55.12,14.25,67.37,
+345,115244,Abdul Qayyum,Mian Noor,0,982,1100,863,1200,2025,2.0,,56.36,13.0,67.36,
+346,97241,Aamna Imran Lone,Imran Anwar Lone,0,949,1200,390,570,2025,,,54.07,13.25,67.32,Fee Verfication Required
+347,136328,Muhammad Hammad,Bahadur Ali,0,853,1100,902,1200,2025,2.0,,56.71,12.5,67.21,
+348,231967,Aleena Asif,Asif Raza,0,892,1200,374,550,2025,,,52.68,14.5,67.18,
+349,141004,Amina Suleman,Muhammad Suleman,0,919,1100,800,1100,2025,2.0,,56.17,13.0,67.17,Fee Verfication Required
+350,167428,Muhammad Adeel Asim,Muhammad Asim Saleem Khan,0,928,1200,383,560,2025,,,53.63,13.5,67.13,
+351,141772,Zaid Sameer Janjua,Abrar Hussain,0,966,1100,810,1100,2025,2.0,,57.35,11.75,67.1,
+352,200740,Laiba Afzal,Muhammad Afzal,0,957,1200,380,555,2025,,,54.32,12.75,67.07,
+353,83611,Shahzaib Ahmed,Sajjad Iqbal,0,894,1200,399,560,2025,,,54.29,12.75,67.04,
+354,212023,Sadia Noor,Muhammad Farooq,0,970,1200,400,560,2025,,,56.03,11.0,67.03,
+355,217296,Minahil Arzoo,Tahir Ayub,0,873,1200,396,515,2026,,,56.53,10.5,67.03,Fee Verfication Required
+356,136744,Armeen Mir,Irfan Mir,0,907,1200,404,560,2025,,,55.01,12.0,67.01,
+357,179007,Amna Syed,Syed Muhammad Amer Rizvi,20,874,1200,423,575,2026,,,56.7,10.25,66.95,Fee Verfication Required
+358,212092,Sana Khalil,Malik Khalil Hussain,0,790,1100,414,560,2025,,,54.93,12.0,66.93,
+359,126429,Rubat Minahil,Qasim Javed,0,891,1200,418,560,2025,,,55.88,11.0,66.88,
+360,123407,Mamoona Jamil,Jamil Ahmed Rana,0,940,1200,395,560,2025,,,54.94,11.75,66.69,
+361,241557,Furqan Ahmad Asif,Muhammad Asif,0,942,1200,383,560,2025,,,53.94,12.75,66.69,
+362,235147,Mahnoor,Afzaal Akram,0,865,1100,387,560,2025,,,54.18,12.5,66.68,
+363,149594,Ziaul Rehman Farooqi,Muhammad Afzal,0,983,1200,384,560,2025,,,54.92,11.75,66.67,
+364,155316,Muhammad Hashir Nadeem,Nadeem Raza,0,884,1200,397,560,2025,,,53.9,12.75,66.65,
+365,244902,Muhammad Ehsan Tariq,Muhammad Tariq Iqbal,0,960,1200,349,560,2025,,,51.37,15.25,66.62,
+366,173956,Fatima Mirza,Asif Mehmood,0,982,1200,380,560,2025,,,54.55,12.0,66.55,
+367,131175,Anas Nadeem,Nadeem Saleem,0,960,1200,384,570,2025,,,53.79,12.75,66.54,Fee Verfication Required
+368,206393,Muhammad Umar,Atiq Ur Rehman,0,993,1200,357,560,2025,,,52.78,13.75,66.53,Fee Verfication Required
+369,141031,Hifza Imran,Shahzad Imran,0,728,1100,418,560,2025,,,53.89,12.5,66.39,
+370,86210,Khudija Zaryan,Naveed Ahmed,0,1007,1200,368,575,2025,,,53.12,13.25,66.37,Fee Verfication Required Matric original Result card missin g
+371,126123,Muhammad Ibrar,Khan Zaman,0,776,1100,958,1200,2024,2.0,,58.58,9.75,66.33,Fee Verfication Required
+372,130254,Ayesha Ismail,Mohammad Ismail,0,888,1200,381,510,2025,,,55.83,10.5,66.33,
+373,96820,Iman Shahid,Shahid Ali,0,916,1200,392,570,2025,,,53.53,12.75,66.28,Fee Verfication Required matric and inter result card are missing
+374,147924,Talha Shahzad,Shahzad Ahmad,0,792,1100,336,510,2025,,,51.02,15.25,66.27,
+375,158931,Syed Hasnain Raza Naqvi,Syed Tanvir Mujahid Naqvi,0,897,1100,853,1100,2025,2.0,,58.76,9.5,66.26,
+376,134114,Noor-ul-eman,Ishtiaq Ahmed,0,898,1100,906,1200,2024,4.0,,57.48,12.75,66.23,
+377,177181,Aliya Saddique,Muhammad Saddique,0,914,1200,358,555,2025,,,51.45,14.75,66.2,
+378,140568,Muhammad Yousaf,Saidhan,0,1023,1200,384,550,2025,,,56.45,9.75,66.2,Fee Verfication Required
+379,147271,Rana Taimoor Iqbal,Zahid Iqbal,0,821,1100,379,520,2025,,,55.12,11.0,66.12,
+380,129725,Hoorab Javed,Javed Khan,0,875,1100,350,510,2026,,,54.34,11.75,66.09,Fee Verfication Required
+381,143967,Muhammad Abdul Raheem Anwar,Waqas Anwar Ul Haq,0,827,1100,358,505,2025,,,54.3,11.75,66.05,Fee Verfication Required
+382,73773,Muhammad Hashir Sohail,Chaudhary Sohail Nazir,0,960,1200,381,560,2025,,,54.16,11.75,65.91,
+383,211121,Ahmad Barkat,Ghulam Mustafa,0,865,1200,381,560,2025,,,52.09,13.75,65.84,
+384,239271,Aiman Irfan,Irfan Qamar,0,1025,1100,900,1200,2024,4.0,,58.79,11.0,65.79,
+385,143591,Huraib Shafique,Shafique Gill,0,994,1200,391,560,2025,,,55.77,10.0,65.77,
+386,160471,Manzoor Ali,Jumoon,0,921,1100,801,1100,2025,2.0,,56.25,11.5,65.75,
+387,126418,Fatima Ahmed,Khubaib Ahmed,0,876,1200,335,575,2025,,,47.49,18.25,65.74,
+388,147702,Rabia Sadia,Raees Ahmed,0,924,1100,801,1200,2025,2.0,,52.47,15.25,65.72,
+389,85520,Muhammad Anas,Jamil Akhtar,0,901,1100,355,530,2025,,,54.06,11.5,65.56,
+390,140830,Sundas Anwar,Muhammad Anwar,0,904,1200,376,560,2025,,,52.5,13.0,65.5,
+391,184218,Rana Sheraz Ahmad Khan,Rana Bilal Ahmad Khan,0,818,1200,420,560,2025,,,54.46,11.0,65.46,
+392,106239,Hassan Munir,Muhammad Munir,0,1053,1200,344,560,2026,,,52.96,12.5,65.46,
+393,87108,Noor Al Imman,Muhammad Ashfaq,0,874,1200,371,560,2025,,,51.41,14.0,65.41,
+394,116639,Manahil Kamal,Muhammad Kamal,0,770,1100,368,520,2025,,,52.88,12.5,65.38,
+395,119035,Abdullah,Muhammad Shamraiz,0,895,1100,771,1100,2025,2.0,,54.26,13.0,65.26,
+396,122204,Abuzar,Shabbir Hussain,0,888,1100,340,560,2025,,,50.48,14.75,65.23,
+397,129948,Muhammad Atta Akbar,Mian Amer Hayat,0,893,1100,742,1100,2025,2.0,,52.65,14.5,65.15,
+398,93228,Muhammad Addan Javid,Khalid Javid,0,875,1200,382,560,2025,,,52.39,12.75,65.14,
+399,194760,Samra Batool,Tanveer Hussain,0,885,1200,399,560,2025,,,54.09,11.0,65.09,
+400,147960,Abeera Abid,Chaudary Abid Ali,0,965,1200,338,560,2025,,,50.52,14.5,65.02,
+401,160221,Khuzaima Jabbar,Malik Abdul Jabbar,0,982,1200,371,560,2025,,,53.76,11.25,65.01,
+402,127353,Syeda Iras Fatima,Syed Naveed Mehmood,0,856,1100,348,510,2025,,,53.69,11.25,64.94,
+403,186864,Alisha Fatima,Parveez Akhtar,0,951,1200,409,560,2025,,,56.4,8.5,64.9,
+404,140554,Laraib Noor,Tariq Iqbal,0,809,1100,340,505,2025,,,52.14,12.75,64.89,Fee Verfication Required
+405,161927,Mehr Un Nisa Fatima,Zafar Iqbal,0,948,1100,787,1100,2023,6.0,,55.85,15.0,64.85,
+406,120007,Abubakar,Shahnawaz,0,896,1200,392,570,2025,,,53.1,11.75,64.85,Fee Verfication Required
+407,141938,Hooria Tahraf,Muhammad Tahraf,0,782,1100,368,525,2025,,,52.83,12.0,64.83,
+408,238213,Bisma Raheel,Raheel Aslam,0,977,1200,373,560,2025,,,53.83,11.0,64.83,Fee Verfication Required
+409,183252,Abdullah,Tariq Mahmood,0,798,1200,366,560,2025,,,49.32,15.5,64.82,
+410,146690,Muhammad Abdullah Raja,Raja Muhammad Basharat,0,932,1100,322,510,2025,,,53.03,11.75,64.78,
+411,153631,M Abdul Aziz,Hassan Moeen Alam,0,940,1200,350,560,2025,,,51.02,13.75,64.77,
+412,144244,Zainab Iman,Atta Ur Rehman Zahid,0,821,1100,826,1200,2025,2.0,,52.44,14.25,64.69,
+413,177727,Chaudhary Daniyal Amir,Chaudhary Tayyab Waheed Amir,0,728,1100,381,550,2024,,,51.18,13.5,64.68,Fee Verfication Required
+414,224831,Usman Arshad,Arshad Tanveer,20,1020,1100,829,1200,2024,4.0,,56.14,12.5,64.64,
+415,116930,Tabeer Elahi,Pir Muhammad Shakeel,0,797,1100,383,510,2026,,,55.63,9.0,64.63,
+416,103781,Farwa Farooq,Farooq Khan,0,742,1100,375,525,2026,,,52.55,12.0,64.55,
+417,85068,Mahnoor,Azeem Azim,0,937,1200,376,560,2025,,,53.22,11.25,64.47,
+418,127686,Faryal Bibi,Muhammad Amin,0,906,1200,355,560,2025,,,50.71,13.75,64.46,
+419,96923,Hasnain Sikandar,Sikandar Hayat,0,782,1100,372,525,2025,,,53.2,11.25,64.45,
+420,171185,Saim Khaliq,Abdul Khaliq,0,955,1200,388,560,2025,,,54.66,9.75,64.41,
+421,72616,Sanabil Shahzad,Shahzada Gullbadeen,0,917,1100,820,1200,2025,2.0,,53.35,13.0,64.35,
+422,222965,Muhammad Hassan,Tanveer Ahmad,0,922,1200,368,570,2025,,,51.59,12.75,64.34,
+423,219665,Adil Ahmad,Iftikhar Ahmad,0,858,1200,378,550,2025,,,52.28,12.0,64.28,
+424,238982,Muhammad Talha,Umar Hayat Abid,0,1020,1200,338,555,2025,,,52.02,12.25,64.27,
+425,142764,Salman Mahmood Khan,Nasir Mahmood Khan,0,953,1200,361,560,2025,,,52.26,12.0,64.26,
+426,239324,Zeigham Ali Butt,Yasir Ali,0,989,1200,360,560,2025,,,52.96,11.25,64.21,
+427,159777,M.hassnain,Mubashar Ahmad,0,795,1200,401,570,2026,,,51.7,12.5,64.2,Fee Verfication Required
+428,231162,Abdul Rehman Abid,Abdul Zahid,0,784,1200,394,560,2025,,,51.45,12.75,64.2,
+429,193281,Muhammad Abubakar,Ihsan Zafar,0,931,1200,351,560,2025,,,50.91,13.25,64.16,
+430,82232,Zainab Bi Bi,Muhammad Ashraf,0,881,1100,829,1200,2025,2.0,,53.35,12.75,64.1,
+431,121738,Haider Ali,Mirza Tasawar Hussain,0,910,1100,346,555,2026,,,51.82,12.25,64.07,
+432,160937,Taimoor Khan,Muhammad Younas,0,915,1200,355,525,2025,,,53.07,11.0,64.07,
+433,224653,Ahmed Ali,Aslam Khan,0,835,1100,745,1100,2025,2.0,,52.02,14.0,64.02,Fee Verfication Required
+434,206914,Muhammad Hassan,Shafqat Naeem,0,737,1100,345,520,2025,,,49.93,14.0,63.93,
+435,77599,Zulakha Kanwal,Aamir Ahsan,20,760,1100,326,520,2025,,,50.57,13.25,63.82,
+436,183175,Muhammad Hassaan Khalid,Khalid Mehmood,0,911,1200,353,560,2025,,,50.65,13.0,63.65,Fee Verfication Required
+437,100524,Muhammad Abdullah,Salamat Ali,0,793,1200,385,560,2025,,,50.86,12.75,63.61,
+438,138038,Nimra Ansar,Ansar Mehmood,0,770,1200,387,560,2025,,,50.54,13.0,63.54,
+439,75685,Muhammad Zubair,Shafqat Saeed Khokhar,0,815,1100,858,1200,2025,2.0,,53.99,11.5,63.49,Fee Verfication Required
+440,74257,Muhammad Ubaid,Mushtaq Ahmad,0,685,1100,824,1200,2025,2.0,,50.61,14.75,63.36,Fee Verfication Required2Marks Deduction
+441,149338,Ali Hassan Nadeem,Nadeem Ashraf,0,782,1200,376,560,2025,,,49.84,13.5,63.34,
+442,237585,Syed Ali Haider,Syed Waqar Haider Jafri,0,866,1100,800,1200,2024,4.0,,51.69,15.5,63.19,Fee Verfication Required
+443,207645,Shahwali Hasnat,Abdul Rehman,0,889,1200,360,560,2025,,,50.78,12.25,63.03,
+444,171709,Hajira Malik,Shakeel Ur Rehman,0,733,1100,368,520,2025,,,52.0,11.0,63.0,
+445,126978,Rehaab Imtiaz,Imtiaz Ahmed Choudhary,0,791,1200,401,560,2025,,,52.22,10.75,62.97,Fee Verfication Required
+446,243451,Waqar Ahmad,Imshad,0,925,1100,825,1200,2025,2.0,,53.71,11.25,62.96,
+447,75432,Huda Khalil,Mohammad Khalil,0,731,1100,371,550,2025,,,50.34,12.5,62.84,
+448,153924,Hadia Bilal,Bilal Ahmed,0,975,1200,339,560,2025,,,50.82,12.0,62.82,
+449,229078,Qurat Ul Ain,Asif Latif,0,846,1100,351,520,2025,,,53.07,9.75,62.82,
+450,170280,Muzammal Hassan,Muhammad Shahbaz,0,948,1200,357,560,2025,,,51.8,11.0,62.8,Fee Verfication Required
+451,177264,Haram Shahzadi,M. Javed,0,887,1200,369,560,2025,,,51.52,11.25,62.77,
+452,121563,Maryam Noor,Mirza Amir Shahzad,0,897,1200,374,560,2026,,,52.17,10.5,62.67,
+453,145043,Maira Khan,Muhammad Amir Khan,0,766,1100,831,1200,2025,2.0,,51.99,12.5,62.49,Fee Verfication Required
+454,143876,Hadia Haroon,Haroon Mahmood,0,758,1100,337,520,2025,,,49.67,12.75,62.42,
+455,123277,Ghulam Dastgir,Muhammad Akram,0,937,1200,361,560,2026,,,51.91,10.5,62.41,
+456,164917,Abdul Rafay,Muhammad Shabbir,0,820,1200,370,560,2025,,,50.15,12.25,62.4,Fee Verfication Required
+457,153529,Zainab Mir,Ahtesham Ul Haq Mir,0,850,1200,350,560,2025,,,49.06,13.25,62.31,
+458,219460,Eesha Samman,Bilal Hussain,0,760,1200,381,560,2025,,,49.8,12.5,62.3,
+459,97028,Muhammad Aayan Ashiq,Sheikh Muhammad Ashiq,0,893,1200,336,560,2026,,,48.77,13.5,62.27,
+460,119011,Kainat Yousaf,Muhammad Yousaf,0,726,1100,368,510,2026,,,52.5,9.75,62.25,Fee Verfication Required
+461,216148,Mah Noor Zulfiqar,Zulfiqar Ali,0,908,1100,820,1200,2025,2.0,,53.24,11.0,62.24,
+462,165351,Ali Ahmad,Sher Muhammad,0,866,1200,379,560,2025,,,51.93,10.25,62.18,
+463,144648,Huzaifa Farhan,Farhan Majeed,0,718,1100,328,500,2025,,,49.11,13.0,62.11,
+464,200417,Muhammad Qasim Shahzad,Muhammad Shahzad,0,739,1200,417,575,2025,,,51.58,10.5,62.08,
+465,96888,Muhammad Haroon,Parvez Ahmad,0,912,1100,803,1200,2025,2.0,,52.42,11.5,61.92,
+466,101579,Arooj Fatima,Asjad Mehmood Khan,0,883,1200,339,550,2025,,,49.39,12.5,61.89,
+467,138218,Radiha Imtiaz,Imtiaz Hussain,0,845,1200,375,560,2025,,,51.13,10.75,61.88,
+468,144785,Muhammad Roshan Majeed,Abdul Majeed,0,944,1200,338,560,2025,,,50.06,11.75,61.81,
+469,206018,Muhammad Uzair,Abdul Rehman,20,1025,1200,322,575,2025,,,51.28,10.5,61.78,Fee Verfication Required
+470,116117,Hammad Ansar,Ansar Mehmood,0,776,1200,358,560,2025,,,48.14,13.5,61.64,
+471,78075,Hafsa Mehmood,Talat Mehmood,0,930,1200,331,560,2025,,,49.14,12.5,61.64,
+472,75668,Eman,Tanveer,0,909,1200,324,570,2025,,,47.52,14.0,61.52,Fee Verfication Required
+473,214707,Sajjal Abbas,Nasar Mehmood,0,785,1100,344,520,2025,,,50.97,10.5,61.47,
+474,238262,Shehraz Akhter,Akhter Mehmood,0,831,1100,327,520,2025,,,50.45,11.0,61.45,
+475,138100,Muhammad Hassan Raza Malik,Uzair Ul Hassan Malik,0,808,1100,375,560,2025,,,51.83,9.5,61.33,
+476,101648,Hafsa Sharif,Muhammad Sharif,0,837,1200,355,550,2025,,,49.79,11.5,61.29,
+477,186274,Saif Ahmed,Zahoor Ahmed,0,938,1100,746,1100,2024,4.0,,53.48,11.75,61.23,
+478,135600,Momina Kayani,Muhammad Ishtiaq,0,736,1200,382,550,2025,,,49.94,11.25,61.19,
+479,83657,Hadia Mehmood,Talat Mehmood,0,881,1200,334,560,2025,,,48.34,12.75,61.09,
+480,103529,Noor-e-saba Khan,Muzafar Abbas,0,982,1100,822,1200,2024,4.0,,54.28,10.75,61.03,Fee Verfication Required
+481,99614,Huma Faisal,Muhammad Faisal Zia,20,923,1200,293,545,2025,,,48.26,12.75,61.01,
+482,138448,Muhammad Abdullah Sarwar,Muhammad Masud Sarwar,0,882,1200,335,560,2026,,,48.44,12.5,60.94,
+483,126551,Asfha Shahzad,Shahzad Mehmood,0,811,1200,392,560,2025,,,51.87,9.0,60.87,
+484,171804,Haleema Sadia,Mirza Sohail Amin,0,836,1200,316,545,2025,,,46.6,14.25,60.85,
+485,226139,Aqdas Khaleeq,Muhammad Khaleeq,0,787,1100,773,1200,2025,2.0,,49.31,13.5,60.81,
+486,128812,Muhammad Hanan Wajid,Wajid Mehmood Kayani,0,816,1100,814,1200,2025,2.0,,51.76,11.0,60.76,2% Deduction
+487,116474,Ubaid Ullah,Khan Badshah,20,891,1200,390,600,2025,,,52.73,8.0,60.73,Fee Verfication Required inter result card missing
+488,98672,Muhammad Ahsan Khalil,Khalil Ur Rehman,0,882,1100,694,1100,2025,,,49.88,10.75,60.63,
+489,189100,Emaan Amjad,Amjad Mehmood,0,757,1200,377,560,2025,,,49.38,11.25,60.63,
+490,126650,Syed Afaq Ahmed Bukhari,Syed Abid Ali Shah,0,946,1200,332,570,2025,,,49.01,11.5,60.51,
+491,141936,Muhammad Ali Zulfiqar,Rana Zulfiqar Ali Khan,0,888,1200,339,550,2026,,,49.5,10.75,60.25,
+492,74330,Ansa Azad,Muhammad Azad,0,769,1200,357,560,2025,,,47.9,12.25,60.15,
+493,195863,Laiba Khalid,Khalid Mehmood,0,718,1200,404,575,2025,,,50.01,10.0,60.01,
+494,106660,Umar Farooq,Muhammad Arif,20,695,1100,371,560,2025,,,50.73,9.25,59.98,Fee Verfication Required
+495,164474,Memoona Ali,Amjad Ali,0,686,1100,367,550,2025,,,48.95,11.0,59.95,
+496,139181,Yasir Iqbal,Muhammad Iqbal,0,737,1100,343,560,2025,,,47.36,12.5,59.86,Fee Verfication Required
+497,141605,Muhammad Moiz Sajjad,Muhammad Sajjad Ahmed,0,792,1200,341,560,2025,,,47.01,12.75,59.76,Fee Verfication Required
+498,178451,Taha Shahid,Shahid Riaz,0,827,1200,333,560,2025,,,47.07,12.5,59.57,Fee Verfication Required
+499,173292,Isha Shahzad,Raja Shahzad Khurram,0,745,1100,812,1200,2026,2.0,,50.76,10.75,59.51,Fee Verfication Required
+500,189919,Fatima Asghar,Muhammad Asghar,0,971,1200,316,555,2026,,,49.01,10.5,59.51,Fee Verfication Required
+501,139884,Momina Mahfooz,Malik Mehfooz Ahmed,0,766,1200,373,560,2025,,,49.23,10.25,59.48,
+502,202781,Maira Begum,Tasawar Hussain,0,843,1200,356,575,2025,,,48.58,10.75,59.33,
+503,227257,Khadija Jahangir,Muhammad Jahangir,0,888,1100,859,1100,2021,10.0,,58.96,10.25,59.21,
+504,93134,Natasha Khalid,Khalid Aziz,0,877,1100,763,1200,2024,4.0,,49.94,13.25,59.19,
+505,94118,Memona Shehzad,Shehzad Mehmood Butt,0,929,1200,342,560,2025,,,50.08,9.0,59.08,Fee Verfication Required
+506,236909,Kaleemullah,Allah Dittah,0,742,1200,375,570,2025,,,48.32,10.75,59.07,
+507,195756,Ashir Ali Shah,Asad Ali Shah(late),20,821,1200,317,570,2025,,,46.75,12.25,59.0,Fee Verfication Required
+508,144579,Zoya Nasir,Nadeem Nasir,0,878,1100,742,1200,2025,2.0,,48.89,12.0,58.89,
+509,141343,Raja Farhan Mazhar,Mazhar Iqbal,0,788,1100,320,510,2025,,,49.39,9.5,58.89,Fee Verfication Required
+510,160508,Muhammad Hamza Naeem Khaliq,Muhammad Naeem Khaliq,0,803,1100,758,1200,2025,2.0,,48.75,12.0,58.75,
+511,183100,Muhammad Ibraheem Akbar,Mian Yasir Arfat,0,774,1100,299,560,2025,,,44.24,14.5,58.74,
+512,212519,Shumaim,Ghulam Mustafa,0,835,1100,730,1200,2025,2.0,,47.73,13.0,58.73,
+513,170161,Shahzaib Hussain,Malik Faryad Hussain,0,794,1100,733,1200,2025,2.0,,47.36,13.25,58.61,
+514,211363,Abdul Ahad,Khurram Zia,0,812,1100,742,1200,2025,2.0,,48.05,12.5,58.55,
+515,197705,Noor Sughra,Muhammad Ramzan,0,708,1100,314,510,2026,,,46.91,11.5,58.41,
+516,72244,Tahreem khalid,Khalid Mehmood,0,842,1100,731,1200,2025,2.0,,47.87,12.5,58.37,
+517,173123,Marjan Idrees,Qari Muhammad Idrees,0,704,1200,375,560,2025,2.0,,48.05,12.25,58.3,Fee Verfication Required
+518,190529,Zainab Abbas,Muhammad Abbas,0,831,1100,336,550,2025,,,49.43,8.75,58.18,
+519,192348,Muhammad Anas,Muhammad Arshad,0,935,1200,292,560,2025,,,45.85,12.0,57.85,
+520,99398,Muhammad Haseeb,Muhammad Ateeq,0,939,1200,287,560,2025,,,45.5,12.25,57.75,
+521,97249,Sehar Nadeem,Muhammad Nadeem,0,768,1200,369,560,2025,,,48.92,8.75,57.67,Fee Verfication Required
+522,84597,Muhammad Hadi Naveed,Muhammad Naveed Anwar,0,800,1200,328,555,2025,,,46.32,11.25,57.57,Fee Verfication Required
+523,96717,Mubashir Ali,Zafar Iqbal,0,856,1100,690,1200,2025,,,45.97,11.25,57.22,
+524,121212,Muhammad Hamza,Wahid Nawaz,0,835,1100,798,1200,2025,2.0,,51.19,7.75,56.94,Fee Verfication Required
+525,140707,Eman Zulfiqar,Hafiz Zulfiqar Ahmed,0,798,1200,332,560,2025,,,46.35,10.5,56.85,
+526,96483,Muhammad Rehan,Tanveer Hussain,0,795,1100,709,1100,2025,2.0,,49.51,9.25,56.76,
+527,138098,Ayesha Ihsan Ullah,Ihsan Ullah,0,809,1200,332,560,2025,,,46.59,10.0,56.59,
+528,185784,Azaan Ali,Sajjad Ahmed,0,896,1200,321,560,2025,,,47.53,9.0,56.53,
+529,99332,Batool Iftikhar,Iftikhar Ahmed,0,821,1100,751,1100,2025,2.0,,52.16,6.25,56.41,
+530,164727,Meher-un- Nisa,Asim Ali,0,844,1200,348,575,2026,,,47.91,8.0,55.91,Fee Verfication Required
+531,92139,Muhammad Ali,Muhammad Boota,0,903,1200,292,560,2026,,,45.15,10.5,55.65,
+532,96628,Muhammad Abdullah,Shakeel Ahmed,0,818,1100,703,1200,2025,2.0,,46.14,11.5,55.64,
+533,132660,Shahmir Sajid,Sajid Mahmood,0,812,1200,288,560,2025,,,42.82,12.75,55.57,
+534,72219,Nouman Haider Shareef,Amjad Mehmood,0,723,1200,318,560,2025,,,43.5,12.0,55.5,
+535,202161,Amina Bano,Ibrahim Khan,20,622,1100,733,1100,2025,,,49.55,5.75,55.3,
+536,152505,Amna Shahzadi,Rafaqat Ali,0,735,1100,303,560,2025,,,43.72,11.5,55.22,
+537,182201,Muhammad Faizan,Chaudhary Muhammad Arshad,0,845,1100,707,1200,2025,2.0,,46.69,10.5,55.19,
+538,197347,Maria Atiq,Atiq Ur Rehman,0,678,1100,304,520,2025,,,44.67,10.5,55.17,
+539,101854,Ghulam Mustafa,Yousaf Hassan,0,749,1100,301,550,2025,,,44.39,10.75,55.14,
+540,178661,Fatima Majeed,Mubashar Ali,0,639,1200,369,575,2025,,,45.32,9.25,54.57,
+541,84158,Momina Muzammal,Alsyed Muzammal Hussain Bukhari,0,693,1100,687,1200,2025,2.0,,43.74,12.75,54.49,
+542,186716,Isma Rafaqat,Rafaqat Hussain,0,660,1200,314,550,2025,,,42.26,12.0,54.26,
+543,208799,Sidra Mahboob,Muhammad Mahboob,0,768,1200,317,555,2025,,,44.65,9.5,54.15,
+544,172882,Muhmmad Ismail,Nasir Mehmood,0,791,1100,292,550,2025,,,44.52,9.5,54.02,
+545,92156,Muhammad Husnain,Tariq Mehmood,0,701,1100,311,560,2026,,,43.68,10.25,53.93,
+546,151190,Abdullah Shakeel,Shakeel Ahmed,0,691,1100,681,1200,2025,2.0,,43.41,12.5,53.91,
+547,104074,Muhammad Ahmad,Javid Iqbal,0,719,1100,687,1200,2025,2.0,,44.07,11.75,53.82,
+548,236404,Izza Eman,Muhammed Adrees,0,779,1200,310,550,2025,,,44.54,9.25,53.79,
+549,190739,Sehar Eman,Ishtiaq Ahmed,0,722,1100,714,1200,2025,2.0,,45.48,10.25,53.73,
+550,101760,Awais Anjum,Abdul Jalil,0,677,1100,318,520,2025,,,45.97,7.75,53.72,
+551,244941,Muhammad Bilal,Chaudhry Wajid Hussain,0,928,1100,714,1200,2025,2.0,,48.1,7.5,53.6,
+552,97294,Jawairia Noor,Muhammad Yaqoob,0,711,1100,655,1200,2025,,,42.34,11.25,53.59,
+553,234800,Saliha Zubair,Muhammad Zubair,0,728,1200,323,575,2025,,,43.29,10.25,53.54,
+554,117513,Muhammad Abdullah,Ch M Rasheed,0,817,1100,621,1200,2025,,,41.96,11.5,53.46,
+555,129275,Huraib,Pervaiz Masih,0,730,1100,641,1100,2025,2.0,,44.92,10.25,53.17,
+556,206977,Muhammad Asim Ramzan,Muhammad Asim Ramzan,0,729,1200,343,550,2026,,,46.35,6.75,53.1,Fee Verfication Required
+557,187323,Muskan Fatima,Qaiser Maqsood,0,747,1200,312,575,2025,,,42.75,10.25,53.0,
+558,145008,Fatima Sherazi,Adil Shah,0,839,1200,289,555,2025,,,43.75,9.25,53.0,
+559,99159,Muhammad Awais Khan,Mashoor Khan,0,779,1100,665,1200,2025,2.0,,43.72,11.25,52.97,
+560,194196,Areeba Abid,Abid Hussain,0,806,1200,294,555,2025,,,43.46,9.5,52.96,
+561,116068,Muhammad Faiz,Muhammad Zaman Khan,0,798,1100,644,1200,2025,2.0,,42.89,12.0,52.89,
+562,74597,Ammar Khan,Nasir Khan,0,808,1100,653,1200,2025,2.0,,43.47,11.25,52.72,
+563,213581,Nisa Fatima,Akhlaq Hussain,0,758,1200,318,560,2026,,,44.26,8.25,52.51,
+564,100108,Ayesha Anwar,Ghulam Anwar,0,780,1100,673,1200,2024,2.0,,44.14,10.0,52.14,
+565,207969,Bukhtawar Zafar,Zafar Iqbal,0,792,1200,282,550,2025,,,42.35,9.75,52.1,
+566,206844,Alveera Masood,Muhammad Masood Rafiq,0,646,1200,318,550,2025,,,42.31,9.75,52.06,Fee Verfication Required
+567,105868,Kainat Fatima,Mudassir Hussain Qureshi,0,718,1100,628,1200,2025,,,41.06,10.75,51.81,
+568,115375,Mahira Jannat Janjua,Muhammad Ashfaq Nazam,0,844,1100,621,1200,2025,,,42.31,9.25,51.56,
+569,84972,Maryam Shahzadi,Rashid Mahmood,0,701,1200,300,555,2025,,,41.69,9.75,51.44,Fee Verfication Required
+570,212899,Muhammad Zubair Butt,Abdul Rauf Butt,0,755,1100,638,1200,2024,4.0,,42.04,13.25,51.29,
+571,82316,Shehreen Shabbir,Shabbir Akhtar,0,589,1100,669,1200,2025,2.0,,41.5,11.5,51.0,
+572,94888,Ameer Hamza,Khalid Mehmood,0,696,1100,257,510,2025,,,41.18,9.5,50.68,Fee Verfication Required
+573,205034,Haniyah Haq,Tariq Nadeem Khan,0,677,1200,283,550,2026,,,39.9,10.75,50.65,Fee Verfication Required
+574,134677,Muhammad Ahmar Nadeem,Muhammad Nadeem,0,736,1100,626,1200,2025,2.0,,41.19,11.25,50.44,
+575,154740,Areesha Basharat,Basharat Mehmood,0,748,1200,280,560,2025,,,40.73,9.5,50.23,
+576,115428,Sharjeel Ahmed,Shabbir Ali,0,704,1100,624,1200,2025,,,40.68,9.5,50.18,
+577,132975,Syed Ali Abdullah,Syed Kkhalid Mehmood Kazmi,0,617,1000,589,1100,2025,2.0,,41.29,8.0,47.29,
+578,211317,Rubab Waseem,Muhammad Waseem,0,477,1100,576,1100,2025,2.0,,37.92,10.0,45.92,
+579,119457,Areeb Fatima,Muhammad Sarfraz Ali,0,551,1100,610,1200,2025,,,38.02,7.5,45.52,
+580,155102,Muhammad Abubakar Saddique,Khizar Hayat,0,1106,1200,407,555,2025,,,59.96,16.25,76.21,Ineligible
+581,73488,Noor Ul Ain Jellani Gujar,Ghulam Jellani Gujar,0,746,900,966,1100,2024,4.0,,65.24,0.0,61.24,Ineligible
+582,87192,Muhammad Abubakar,Asmat Ullah,0,923,1200,457,555,2025,,,60.33,0.0,60.33,Ineligible
+583,96826,Urwa Iftikhar,Iftikhar Ahmad,0,1005,1200,432,555,2025,,,59.93,0.0,59.93,Ineligible
+584,119972,Miftah Ul Islam,Baqir Hussain Shah,0,995,1200,424,565,2026,,,58.33,0.0,58.33,Ineligible
+585,76991,Wajeeha,Azhar,0,979,1200,417,560,2025,,,57.71,0.0,57.71,Ineligible
+586,122079,Zanib Bibi,Shamoon Ali,0,842,1200,850,1200,2026,,,53.03,0.0,53.03,Ineligible
+587,155334,Esha Iman,Khalil Ahmed,0,720,1100,254,555,2025,,,39.22,11.25,50.47,Ineligible
+588,171496,Asad Ali,Ibrar Hussan,0,790,1200,256,560,2025,,,39.55,10.25,49.8,Ineligible
+589,191285,Saleha Shahid,Muhammad Shahid,0,608,1100,263,510,2025,,,39.65,10.0,49.65,Ineligible
+590,111515,Zarrish Imran,Imran Baig Mirza,0,710,1100,590,1200,2025,,,39.03,10.5,49.53,Ineligible
+591,139903,Muhammad Shawaiz,Muhammad Nisar,0,902,1200,348,570,2026,,,49.44,0.0,49.44,Ineligible
+592,134801,Zoraiz Ali,Sheikh Abdul Jabbar,0,743,1100,574,1200,2025,0.0,,38.63,10.75,49.38,Ineligible
+593,101519,Muhammad Yousaf,Majid Mehmood,0,794,1100,532,1200,2025,,,37.14,12.0,49.14,Ineligible
+594,200649,Ayesha Mubeen,Rana M. Mubeen,0,735,1200,289,560,2025,,,41.23,7.75,48.98,Ineligible
+595,239465,Laiba Hasnat,Muhammed Hasnat,0,639,1100,256,550,2024,,,37.8,10.5,48.3,Ineligible
+596,190105,Ayesha Sadeeqa,Sajjad Ahmed,0,819,1200,256,555,2025,,,40.42,7.5,47.92,Ineligible
+597,214313,Sehar Fatima,Yasir Mahmood,0,646,1200,261,560,2025,,,36.85,11.0,47.85,Ineligible
+598,203961,Hassan Iqbal,Iqbal Hussain,0,819,1200,225,570,2025,,,37.05,10.75,47.8,Ineligible
+599,150572,Muhammad Naeem,Muhammad Saleem,20,768,1200,258,570,2025,,,40.52,7.0,47.52,Ineligible
+600,115565,Hashir Masood,Masood Imran,0,737,1100,557,1200,2025,,,37.69,9.75,47.44,Ineligible
+601,132009,Ume E Habiba,Muhammad Khaqan,0,716,1200,262,555,2025,,,38.68,8.25,46.93,Ineligible
+602,127429,Saad Ahmed Baig,Muhammad Arshad Hussain Baig,0,693,1100,607,1200,2025,,,39.67,6.75,46.42,Ineligible
+603,116069,Huzaifa Rehman,Hameed Ur Rehman,0,688,1100,576,1200,2025,2.0,,38.03,9.5,45.53,Ineligible
+604,241832,Muhammad Mujtba,Muhammad Aslam,0,582,1200,254,550,2025,,,35.25,10.25,45.5,Ineligible
+605,163849,Taimoor Karamat,Karamat Farooq,0,681,1100,223,570,2024,,,34.9,9.25,44.15,Ineligible
+606,132426,Noor-ul-ain,Zulfiqar Khalid,0,829,1100,278,550,2025,,,44.11,0.0,44.11,Ineligible
+607,77574,Faiza Akhtar,Ghazanfar Khan,0,710,1200,302,560,2025,,,41.82,0.0,41.82,Ineligible
+608,164535,Yashfa Ikram,Muhammad Ikram,0,523,1100,482,1100,2023,,,33.42,8.0,41.42,Ineligible
+609,136161,Dua Asif,Asif Mehmood,20,704,1100,589,1200,2025,,,39.92,0.0,39.92,Ineligible
+610,152177,Rumaisa,Shamim Humayun,0,642,1200,175,560,2025,,,29.26,9.0,38.26,Ineligible
+611,126287,Malaika Abdul Majid,Abdul Majid,0,592,1100,220,560,2025,,,33.05,0.0,33.05,Ineligible

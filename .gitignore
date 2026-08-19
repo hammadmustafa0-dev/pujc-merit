@@ -1,0 +1,7 @@
+venv/
+.env
+
+loading_list.py
+__pycache__/
+*.__pyc
+.vscode/
