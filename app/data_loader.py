@@ -13,7 +13,7 @@ logger=logging.getLogger(__name__)
 
 def search_by_name(name:str , merit_list:str):
 
-    file_name=f"data/{merit_list}-2026.csv"
+    file_name=f"data/{merit_list}3-2026.csv"
 
     
 
