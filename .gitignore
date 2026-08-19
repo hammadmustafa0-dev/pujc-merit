@@ -1,7 +1,7 @@
 venv/
 .env
 
-loading_list.py
+loading_lists.py
 __pycache__/
 *.__pyc
 .vscode/
