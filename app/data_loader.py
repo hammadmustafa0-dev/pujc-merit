@@ -15,6 +15,8 @@ def search_by_name(name:str , merit_list:str):
 
     file_name=f"data/{merit_list}-2026.csv"
 
+    
+
     df=pd.read_csv(file_name)
 
     logger.info(f"loaded the {file_name}")
@@ -52,9 +54,6 @@ def search_by_name(name:str , merit_list:str):
 
     
     return final_result
-
-
-
 
 
 
