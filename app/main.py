@@ -44,8 +44,10 @@ app.add_middleware(
 @limiter.limit("20/minute")
 def search(name:str , merit_list , request:Request):
 
+    clean_name=name.strip()
+
     try:
-        result=search_by_name(name,merit_list)
+        result=search_by_name(clean_name,merit_list)
 
     except Exception as e:
         logger.error(f"error is: {e}")
