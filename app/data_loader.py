@@ -49,6 +49,9 @@ def search_by_name(name:str , merit_list:str):
     final_result=clean_result.to_dict(orient="records")
     logger.info(f"converted to dict")
 
+    len_of_data=len(final_result)
+    logger.info(f"found {len_of_data} rows for the name {name}")
+
 
     print("----------------------------------------")
 
