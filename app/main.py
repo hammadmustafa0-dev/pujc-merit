@@ -49,7 +49,7 @@ def search(name:str , merit_list , request:Request):
 
     except Exception as e:
         logger.error(f"error is: {e}")
-        raise HTTPException(status_code=400,detail=str(e))
+        raise HTTPException(status_code=400,detail="something went wrong! Try again")
     
 
     return result
